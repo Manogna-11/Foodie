@@ -73,8 +73,7 @@ An AI-powered web application that helps users discover food and restaurant sugg
 
 
 ![Home]<img width="1843" height="917" alt="image" src="https://github.com/user-attachments/assets/62ea55c3-60aa-44ca-80e9-55be99d19f37" />
-![Home]<img width="1852" height="910" alt="image" src="https://github.com/user-attachments/assets/63c8258c-a9e2-48b4-9249-eed4bd1d43d5" />
-![Home]<img width="1852" height="915" alt="image" src="https://github.com/user-attachments/assets/4de597dd-57f7-454c-a5a0-9b6f41d01cd0" />
-![Home]<img width="1862" height="915" alt="image" src="https://github.com/user-attachments/assets/b1e070a7-fc3d-4adb-94cb-d38942bc1acb" />
 ![Home]<img width="1882" height="928" alt="image" src="https://github.com/user-attachments/assets/39abaddc-cab0-4ac9-a8a2-0238514aa438" />
-
+![Home]<img width="1862" height="915" alt="image" src="https://github.com/user-attachments/assets/b1e070a7-fc3d-4adb-94cb-d38942bc1acb" />
+![Home]<img width="1852" height="915" alt="image" src="https://github.com/user-attachments/assets/4de597dd-57f7-454c-a5a0-9b6f41d01cd0" />
+![Contact]<img width="1852" height="910" alt="image" src="https://github.com/user-attachments/assets/63c8258c-a9e2-48b4-9249-eed4bd1d43d5" />
