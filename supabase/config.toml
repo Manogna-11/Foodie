@@ -1,1 +1,4 @@
 project_id = "awbpxtyqzzygpmmokvfz"
+
+[functions.recommend-food]
+verify_jwt = false
