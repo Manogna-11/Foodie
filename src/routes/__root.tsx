@@ -32,6 +32,12 @@ export const Route = createRootRoute({
       { name: "author", content: "FoodieAI" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { title: "Lovable App" },
+      { property: "og:title", content: "Lovable App" },
+      { name: "twitter:title", content: "Lovable App" },
+      { name: "description", content: "FoodieAI is a smart food and restaurant finder that uses AI to suggest dishes and restaurants based on your cravings." },
+      { property: "og:description", content: "FoodieAI is a smart food and restaurant finder that uses AI to suggest dishes and restaurants based on your cravings." },
+      { name: "twitter:description", content: "FoodieAI is a smart food and restaurant finder that uses AI to suggest dishes and restaurants based on your cravings." },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
